@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Sociolopy, Chinese University of Hong Kong, 2023-
-* M.A. in Curriculum and Instruction, East China Normal University, 2020-2023
+* Ph.D. in Sociology, fellowship in [Computational Social Science(CSS) cluster](https://cssl.socsc.cuhk.edu.hk/zh-cn/aboutus-sc/people-sc/), Chinese University of Hong Kong, 2023-today
+* M.A. in [Curriculum and Instruction, East China Normal University](http://www.kcs.ecnu.edu.cn/EN/Default.aspx), 2020-2023
 * B.A. in Education, Minor in English, Hunan Normal University, 2016-2020
 
 
@@ -47,7 +48,7 @@ Skills and interests
 
 Publications
 ======
-* Hou, Y. S. & LI, Y. (2021). New normal, new opportunities: prospects of curriculum and instruction in the post-pandemic era——Review of the 18th Shanghai International Curriculum Forum. Basic education and curriculum (Chinese version), (09):4-15.
+* Hou, Y. S. & LI, Y. (2021). [New normal, new opportunities: prospects of curriculum and instruction in the post-pandemic era——Review of the 18th Shanghai International Curriculum Forum](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHYy5Tfy6kcO5GD0BNVA4r-yuFibkm7C7BWx7GSYKT4dA&uniplatform=NZKPT). Basic education and curriculum (Chinese version), (09):4-15.
 * [HKERA-APERA International Conference 2021](https://hkera-apera2021.com/document/HKERA-APERA_Book%20of%20Abstracts.pdf)
   * Presented a paper entitled “The murder of Samuel Paty: Reflections on the challenges and prospects of the teaching of controversial issues” (first author) in the paper session of the forum 
 * [Comparative & International Education Society (CIES 2023)](https://cies2023.org/cies-homepage/)
