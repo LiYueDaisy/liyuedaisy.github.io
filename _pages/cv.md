@@ -19,10 +19,10 @@ Education
 Research experience
 ======
 * 2023-01-2023-05: Chinese University of Hong Kong, Department of Sociology
-  *Research assistant for Prof. Han’s project                               
+  * Research assistant for Prof. Han’s project                               
 
 * 2020.06-2020.08: Tsinghua University
-  *Research assistant in Prof. Peng’s Lab, Department of Psychology                
+  * Research assistant in Prof. Peng’s Lab, Department of Psychology                
 
 * 2020.09-2023.07: East China Normal University
   * Research assistant for Prof. Chen
@@ -47,13 +47,13 @@ Skills and interests
 
 Publications
 ======
-1.	Hou, Y. S. & LI, Y. (2021). New normal, new opportunities: prospects of curriculum and instruction in the post-pandemic era——Review of the 18th Shanghai International Curriculum Forum. Basic education and curriculum (Chinese version), (09):4-15.
-2.	HKERA-APERA International Conference 2021 
-Presented a paper entitled “The murder of Samuel Paty: Reflections on the challenges and prospects of the teaching of controversial issues” (first author) in the paper session of the forum 
-3.	Comparative & International Education Society (CIES 2023)
-Presented a paper entitled “A discursive institutionalist analysis of curriculum reform in values education in Hong Kong” (first author) in the paper session 
-4.	Comparative & International Education Society (CIES 2023)
-Presented a paper entitled “Powerful review or powerful knowledge in textbook decision: Comparison between China and U.S.” (second author) in the paper session
+* Hou, Y. S. & LI, Y. (2021). New normal, new opportunities: prospects of curriculum and instruction in the post-pandemic era——Review of the 18th Shanghai International Curriculum Forum. Basic education and curriculum (Chinese version), (09):4-15.
+* [HKERA-APERA International Conference 2021](https://hkera-apera2021.com/document/HKERA-APERA_Book%20of%20Abstracts.pdf)
+  * Presented a paper entitled “The murder of Samuel Paty: Reflections on the challenges and prospects of the teaching of controversial issues” (first author) in the paper session of the forum 
+* [Comparative & International Education Society (CIES 2023)](https://cies2023.org/cies-homepage/)
+  * Presented a paper entitled “A discursive institutionalist analysis of curriculum reform in values education in Hong Kong” (first author) in the paper session 
+* [Comparative & International Education Society (CIES 2023)](https://cies2023.org/cies-homepage/)
+  * Presented a paper entitled “Powerful review or powerful knowledge in textbook decision: Comparison between China and U.S.” (second author) in the paper session
 
   
 Additional experience
