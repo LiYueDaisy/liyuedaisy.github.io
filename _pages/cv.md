@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Sociology, fellowship in [Computational Social Science(CSS) cluster](https://cssl.socsc.cuhk.edu.hk/zh-cn/aboutus-sc/people-sc/), Chinese University of Hong Kong, 2023-today
+* Ph.D. in Sociology, fellowship in [Computational Social Science(CSS)](https://cssl.socsc.cuhk.edu.hk/zh-cn/aboutus-sc/people-sc/), Chinese University of Hong Kong, 2023-today
 * M.A. in [Curriculum and Instruction, East China Normal University](http://www.kcs.ecnu.edu.cn/EN/Default.aspx), 2020-2023
 * B.A. in Education, Minor in English, Hunan Normal University, 2016-2020
 
